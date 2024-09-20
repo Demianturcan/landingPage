@@ -1,3 +1,8 @@
+import Alpine from 'alpinejs'
+window.Alpine = Alpine
+Alpine.start()
+
+/*
 import './style.css'
 import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
@@ -22,3 +27,4 @@ document.querySelector('#app').innerHTML = `
 `
 
 setupCounter(document.querySelector('#counter'))
+*/
